@@ -48,14 +48,15 @@ while True:
 ```
 ## OUPUT - ARP
 CLIENT.PY
-![image](https://github.com/user-attachments/assets/0fd40b97-a06f-48c5-bdbc-e807ae9f7af4)
+
+![image](https://github.com/user-attachments/assets/ef572b5c-4a48-415a-a999-d1805b557fd7)
+
 
 
 
 SERVER.PY
-![image](https://github.com/user-attachments/assets/ef572b5c-4a48-415a-a999-d1805b557fd7)
 
-
+![image](https://github.com/user-attachments/assets/0fd40b97-a06f-48c5-bdbc-e807ae9f7af4)
 
 
 ## PROGRAM - RARP
